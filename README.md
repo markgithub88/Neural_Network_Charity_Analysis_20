@@ -1,5 +1,4 @@
 # Neural_Network_Charity_Analysis
-Mod_20_Challenge
 
 
 #OVERVIEW OF THE ANALYSIS AND PURPOSE
